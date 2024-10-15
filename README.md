@@ -1,6 +1,6 @@
 # MyExpenses
 
-This is a project (aiming at education) that shows a complete app that allows to manage expenses.
+This is a project (aiming to be an educative demo) that shows a complete app that allows to manage expenses.
 
 ![Sceenshot of the app](Design/scrshot-app.png)
 
